@@ -47,3 +47,7 @@ This project uses a sample logistics dataset for learning and analytical purpose
 
 ## Project Created By
 Developed as a Data Analytics portfolio project using Microsoft Power BI.
+
+## Dashboard Preview
+
+![Translytics Logistics Dashboard](./Logistics_Dashboard.png)
